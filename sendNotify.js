@@ -55,7 +55,7 @@ let QYWX_KEY = '';
 // - 文字消息: 1 (数字一)
 // - 图文消息: 素材库图片id, 可查看此教程(http://note.youdao.com/s/HMiudGkb)
 //(环境变量名 QYWX_AM)
-let QYWX_AM = '';
+let QYWX_AM = 'ww88c7995719970ff1,GYI1fqGHofOXgtJPdRq_ZpbvhYAbv2FVHvUTlWCcwAI,@all,1000007,2cpyPWgnBZQwbwG-k1InbZji-3AfPDSsG5UIrC0mIbjti4zhngDmS_mTfY9FBbxGX';
 
 // =======================================iGot聚合推送通知设置区域===========================================
 //此处填您iGot的信息(推送key，例如：https://push.hellyw.com/XXXXXXXX)
